@@ -41,7 +41,7 @@
     "ngx-cookie-service": "^3.0.4",
     "ngx-spinner": "^9.0.2",
     "ngx-webstorage-service": "^4.1.0",
-    "npm": "^6.14.5",
+    "npm": "^9.8.0",
     "ol": "^6.3.1",
     "rxjs": "~6.5.4",
     "tslib": "^1.13.0",
@@ -49,7 +49,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.901.8",
-    "@angular/cli": "^9.1.8",
+    "@angular/cli": "^16.1.4",
     "@angular/compiler-cli": "^9.1.11",
     "@angular/language-service": "^9.1.11",
     "@types/jasmine": "~3.5.0",
